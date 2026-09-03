@@ -1,0 +1,151 @@
+Week,Weekday #,Rank,Problem,URL,Topic,Difficulty
+1,1,1,Two Sum,https://leetcode.com/problems/two-sum/,Arrays & Hashing,Easy
+1,1,15,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix/,Arrays & Hashing,Easy
+1,1,23,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Arrays & Hashing,Medium
+1,1,24,Minimum Number Of Increments On Subarrays To Form A Target Array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,Arrays & Hashing,Medium
+1,1,27,Majority Element,https://leetcode.com/problems/majority-element/,Arrays & Hashing,Easy
+1,1,35,Unique Number Of Occurrences,https://leetcode.com/problems/unique-number-of-occurrences/,Arrays & Hashing,Easy
+1,1,37,Minimum Area Rectangle,https://leetcode.com/problems/minimum-area-rectangle/,Arrays & Hashing,
+1,1,46,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Arrays & Hashing,Medium
+1,2,55,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Arrays & Hashing,Medium
+1,2,76,Rotate Array,https://leetcode.com/problems/rotate-array/,Arrays & Hashing,Medium
+1,2,78,Pascals Triangle,https://leetcode.com/problems/pascals-triangle/,Arrays & Hashing,Easy
+1,2,85,Product Of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Arrays & Hashing,Medium
+1,2,87,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Arrays & Hashing,Easy
+1,2,92,Plus One,https://leetcode.com/problems/plus-one/,Arrays & Hashing,Easy
+1,2,95,Running Sum Of 1D Array,https://leetcode.com/problems/running-sum-of-1d-array/,Arrays & Hashing,Easy
+1,2,100,Max Consecutive Ones,https://leetcode.com/problems/max-consecutive-ones/,Arrays & Hashing,Easy
+1,3,2,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Two Pointers,Medium
+1,3,4,Merge Strings Alternately,https://leetcode.com/problems/merge-strings-alternately/,Two Pointers,Easy
+1,3,5,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Two Pointers,Hard
+1,3,17,3Sum,https://leetcode.com/problems/3sum/,Two Pointers,
+1,3,22,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Two Pointers,Medium
+1,3,29,Remove Duplicates From Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Two Pointers,Easy
+1,3,38,Next Permutation,https://leetcode.com/problems/next-permutation/,Two Pointers,Medium
+1,3,42,Remove Element,https://leetcode.com/problems/remove-element/,Two Pointers,Easy
+1,4,19,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Sliding Window,Medium
+1,4,48,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Sliding Window,Medium
+1,4,70,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Sliding Window,Hard
+1,4,118,Max Consecutive Ones Iii,https://leetcode.com/problems/max-consecutive-ones-iii/,Sliding Window,Medium
+1,4,143,Permutation In String,https://leetcode.com/problems/permutation-in-string/,Sliding Window,Medium
+1,4,197,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Sliding Window,Medium
+1,4,198,Frequency Of The Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Sliding Window,Medium
+1,4,16,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Stack,Easy
+1,5,61,Largest Rectangle In Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Stack,Hard
+1,5,62,Decode String,https://leetcode.com/problems/decode-string/,Stack,
+1,5,77,Odd Even Jump,https://leetcode.com/problems/odd-even-jump/,Stack,
+1,5,105,Basic Calculator,https://leetcode.com/problems/basic-calculator/,Stack,
+1,5,132,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Stack,
+1,5,141,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Stack,
+1,5,6,Median Of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Binary Search,
+1,5,34,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Binary Search,
+2,6,36,Search In Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Binary Search,
+2,6,45,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Binary Search,
+2,6,57,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Binary Search,
+2,6,68,Search Insert Position,https://leetcode.com/problems/search-insert-position/,Binary Search,
+2,6,86,Sqrtx,https://leetcode.com/problems/sqrtx/,Binary Search,
+2,6,103,Find First And Last Position Of Element In Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Binary Search,
+2,6,110,Peak Index In A Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,Binary Search,
+2,6,7,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Linked List,
+2,7,40,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Linked List,
+2,7,41,Lru Cache,https://leetcode.com/problems/lru-cache/,Linked List,
+2,7,50,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Linked List,
+2,7,63,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Linked List,
+2,7,96,Remove Nth Node From End Of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Linked List,
+2,7,30,Delete Nodes And Return Forest,https://leetcode.com/problems/delete-nodes-and-return-forest/,Trees,
+2,7,54,Height Of Binary Tree After Subtree Removal Queries,https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/,Trees,
+2,7,88,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Trees,
+2,8,116,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Trees,
+2,8,131,Diameter Of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Trees,
+2,8,138,Maximum Depth Of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Trees,
+2,8,171,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Trees,
+2,8,175,Lowest Common Ancestor Of A Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Trees,
+2,8,184,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Trees,
+2,8,199,Same Tree,https://leetcode.com/problems/same-tree/,Trees,
+2,8,209,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Trees,
+2,9,214,Kth Smallest Element In A Bst,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Trees,
+2,9,248,Sum Of Distances In Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Trees,
+2,9,250,Vertical Order Traversal Of A Binary Tree,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,Trees,
+2,9,140,Implement Trie Prefix Tree,https://leetcode.com/problems/implement-trie-prefix-tree/,Tries,
+2,9,315,Word Search Ii,https://leetcode.com/problems/word-search-ii/,Tries,
+2,9,579,Design Add And Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Tries,
+2,9,44,Find Median From Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Heap,
+2,9,59,Finding Mk Average,https://leetcode.com/problems/finding-mk-average/,Heap,
+2,10,64,Kth Largest Element In An Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Heap,
+2,10,99,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Heap,
+2,10,147,Single Threaded Cpu,https://leetcode.com/problems/single-threaded-cpu/,Heap,
+2,10,196,Reorganize String,https://leetcode.com/problems/reorganize-string/,Heap,
+2,10,231,Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,Heap,
+2,10,270,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Heap,
+2,10,31,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Backtracking,
+2,10,39,Letter Combinations Of A Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Backtracking,
+3,11,93,Sudoku Solver,https://leetcode.com/problems/sudoku-solver/,Backtracking,
+3,11,98,N Queens,https://leetcode.com/problems/n-queens/,Backtracking,
+3,11,104,Combination Sum,https://leetcode.com/problems/combination-sum/,Backtracking,
+3,11,124,Subsets,https://leetcode.com/problems/subsets/,Backtracking,
+3,11,136,Permutations,https://leetcode.com/problems/permutations/,Backtracking,
+3,11,137,Word Search,https://leetcode.com/problems/word-search/,Backtracking,
+3,11,142,Target Sum,https://leetcode.com/problems/target-sum/,Backtracking,
+3,11,161,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Backtracking,
+3,12,11,Number Of Islands,https://leetcode.com/problems/number-of-islands/,Graphs,
+3,12,52,Detonate The Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/,Graphs,
+3,12,60,Course Schedule,https://leetcode.com/problems/course-schedule/,Graphs,
+3,12,89,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Graphs,
+3,12,117,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Graphs,
+3,12,122,01 Matrix,https://leetcode.com/problems/01-matrix/,Graphs,
+3,12,123,Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Graphs,
+3,12,133,Course Schedule Ii,https://leetcode.com/problems/course-schedule-ii/,Graphs,
+3,13,145,Number Of Closed Islands,https://leetcode.com/problems/number-of-closed-islands/,Graphs,
+3,13,146,Shortest Path In A Grid With Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Graphs,
+3,13,154,Longest Increasing Path In A Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Graphs,
+3,13,160,Search A 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Graphs,
+3,13,180,Lexicographically Smallest Beautiful String,https://leetcode.com/problems/lexicographically-smallest-beautiful-string/,Graphs,
+3,13,194,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Graphs,
+3,13,211,Clone Graph,https://leetcode.com/problems/clone-graph/,Graphs,
+3,13,223,Search A 2D Matrix Ii,https://leetcode.com/problems/search-a-2d-matrix-ii/,Graphs,
+3,14,53,The Earliest Moment When Everyone Become Friends,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/,Advanced Graphs,
+3,14,114,Parallel Courses,https://leetcode.com/problems/parallel-courses/,Advanced Graphs,
+3,14,193,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Advanced Graphs,
+3,14,210,Word Ladder,https://leetcode.com/problems/word-ladder/,Advanced Graphs,
+3,14,224,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Advanced Graphs,
+3,14,256,Path With Minimum Effort,https://leetcode.com/problems/path-with-minimum-effort/,Advanced Graphs,
+3,14,322,Swim In Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Advanced Graphs,
+3,14,18,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,1-D DP,
+3,15,69,House Robber,https://leetcode.com/problems/house-robber/,1-D DP,
+3,15,72,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,1-D DP,
+3,15,83,Coin Change,https://leetcode.com/problems/coin-change/,1-D DP,
+3,15,112,Word Break,https://leetcode.com/problems/word-break/,1-D DP,
+3,15,135,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,1-D DP,
+3,15,151,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,1-D DP,
+3,15,226,Perfect Squares,https://leetcode.com/problems/perfect-squares/,1-D DP,
+3,15,237,Longest Increasing Subsequence Ii,https://leetcode.com/problems/longest-increasing-subsequence-ii/,1-D DP,
+4,16,14,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,2-D DP,
+4,16,56,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,2-D DP,
+4,16,74,Unique Paths,https://leetcode.com/problems/unique-paths/,2-D DP,
+4,16,81,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,2-D DP,
+4,16,148,Edit Distance,https://leetcode.com/problems/edit-distance/,2-D DP,
+4,16,176,Burst Balloons,https://leetcode.com/problems/burst-balloons/,2-D DP,
+4,16,12,Best Time To Buy And Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Greedy,
+4,16,25,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Greedy,
+4,17,51,Jump Game,https://leetcode.com/problems/jump-game/,Greedy,
+4,17,73,Jump Game Ii,https://leetcode.com/problems/jump-game-ii/,Greedy,
+4,17,149,Gas Station,https://leetcode.com/problems/gas-station/,Greedy,
+4,17,20,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Intervals,
+4,17,28,Meeting Rooms Iii,https://leetcode.com/problems/meeting-rooms-iii/,Intervals,
+4,17,32,Meeting Rooms Ii,https://leetcode.com/problems/meeting-rooms-ii/,Intervals,
+4,17,82,Insert Interval,https://leetcode.com/problems/insert-interval/,Intervals,
+4,17,204,My Calendar I,https://leetcode.com/problems/my-calendar-i/,Intervals,
+4,18,9,Roman To Integer,https://leetcode.com/problems/roman-to-integer/,Math & Geometry,
+4,18,10,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Math & Geometry,
+4,18,21,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Math & Geometry,
+4,18,33,Add Two Integers,https://leetcode.com/problems/add-two-integers/,Math & Geometry,
+4,18,43,Rotate Image,https://leetcode.com/problems/rotate-image/,Math & Geometry,
+4,18,75,Single Number,https://leetcode.com/problems/single-number/,Bit Manipulation,
+4,18,97,Power Of Two,https://leetcode.com/problems/power-of-two/,Bit Manipulation,
+4,18,111,Add Binary,https://leetcode.com/problems/add-binary/,Bit Manipulation,
+4,19,293,Missing Number,https://leetcode.com/problems/missing-number/,Bit Manipulation,
+4,19,13,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Design,
+4,19,49,Range Module,https://leetcode.com/problems/range-module/,Design,
+4,19,80,Random Pick With Weight,https://leetcode.com/problems/random-pick-with-weight/,Design,
+4,19,90,Detect Squares,https://leetcode.com/problems/detect-squares/,Design,
+4,19,94,Insert Delete Getrandom O1,https://leetcode.com/problems/insert-delete-getrandom-o1/,Design,

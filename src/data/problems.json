@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "two-sum",
+    "rank": 1,
+    "week": 1,
+    "weekday": 1,
+    "title": "Two Sum",
+    "url": "https://leetcode.com/problems/two-sum/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "longest-common-prefix",
+    "rank": 15,
+    "week": 1,
+    "weekday": 1,
+    "title": "Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "longest-consecutive-sequence",
+    "rank": 23,
+    "week": 1,
+    "weekday": 1,
+    "title": "Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "rank": 24,
+    "week": 1,
+    "weekday": 1,
+    "title": "Minimum Number Of Increments On Subarrays To Form A Target Array",
+    "url": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "majority-element",
+    "rank": 27,
+    "week": 1,
+    "weekday": 1,
+    "title": "Majority Element",
+    "url": "https://leetcode.com/problems/majority-element/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "unique-number-of-occurrences",
+    "rank": 35,
+    "week": 1,
+    "weekday": 1,
+    "title": "Unique Number Of Occurrences",
+    "url": "https://leetcode.com/problems/unique-number-of-occurrences/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "minimum-area-rectangle",
+    "rank": 37,
+    "week": 1,
+    "weekday": 1,
+    "title": "Minimum Area Rectangle",
+    "url": "https://leetcode.com/problems/minimum-area-rectangle/",
+    "topic": "Arrays & Hashing",
+    "difficulty": ""
+  },
+  {
+    "id": "subarray-sum-equals-k",
+    "rank": 46,
+    "week": 1,
+    "weekday": 1,
+    "title": "Subarray Sum Equals K",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "group-anagrams",
+    "rank": 55,
+    "week": 1,
+    "weekday": 2,
+    "title": "Group Anagrams",
+    "url": "https://leetcode.com/problems/group-anagrams/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "rotate-array",
+    "rank": 76,
+    "week": 1,
+    "weekday": 2,
+    "title": "Rotate Array",
+    "url": "https://leetcode.com/problems/rotate-array/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "pascals-triangle",
+    "rank": 78,
+    "week": 1,
+    "weekday": 2,
+    "title": "Pascals Triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "product-of-array-except-self",
+    "rank": 85,
+    "week": 1,
+    "weekday": 2,
+    "title": "Product Of Array Except Self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "contains-duplicate",
+    "rank": 87,
+    "week": 1,
+    "weekday": 2,
+    "title": "Contains Duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "plus-one",
+    "rank": 92,
+    "week": 1,
+    "weekday": 2,
+    "title": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "running-sum-of-1d-array",
+    "rank": 95,
+    "week": 1,
+    "weekday": 2,
+    "title": "Running Sum Of 1D Array",
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "max-consecutive-ones",
+    "rank": 100,
+    "week": 1,
+    "weekday": 2,
+    "title": "Max Consecutive Ones",
+    "url": "https://leetcode.com/problems/max-consecutive-ones/",
+    "topic": "Arrays & Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "merge-sorted-array",
+    "rank": 2,
+    "week": 1,
+    "weekday": 3,
+    "title": "Merge Sorted Array",
+    "url": "https://leetcode.com/problems/merge-sorted-array/",
+    "topic": "Two Pointers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "merge-strings-alternately",
+    "rank": 4,
+    "week": 1,
+    "weekday": 3,
+    "title": "Merge Strings Alternately",
+    "url": "https://leetcode.com/problems/merge-strings-alternately/",
+    "topic": "Two Pointers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "trapping-rain-water",
+    "rank": 5,
+    "week": 1,
+    "weekday": 3,
+    "title": "Trapping Rain Water",
+    "url": "https://leetcode.com/problems/trapping-rain-water/",
+    "topic": "Two Pointers",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "3sum",
+    "rank": 17,
+    "week": 1,
+    "weekday": 3,
+    "title": "3Sum",
+    "url": "https://leetcode.com/problems/3sum/",
+    "topic": "Two Pointers",
+    "difficulty": ""
+  },
+  {
+    "id": "container-with-most-water",
+    "rank": 22,
+    "week": 1,
+    "weekday": 3,
+    "title": "Container With Most Water",
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "topic": "Two Pointers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array",
+    "rank": 29,
+    "week": 1,
+    "weekday": 3,
+    "title": "Remove Duplicates From Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "topic": "Two Pointers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "next-permutation",
+    "rank": 38,
+    "week": 1,
+    "weekday": 3,
+    "title": "Next Permutation",
+    "url": "https://leetcode.com/problems/next-permutation/",
+    "topic": "Two Pointers",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "remove-element",
+    "rank": 42,
+    "week": 1,
+    "weekday": 3,
+    "title": "Remove Element",
+    "url": "https://leetcode.com/problems/remove-element/",
+    "topic": "Two Pointers",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "valid-parentheses",
+    "rank": 16,
+    "week": 1,
+    "weekday": 4,
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "topic": "Stack",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "longest-substring-without-repeating-characters",
+    "rank": 19,
+    "week": 1,
+    "weekday": 4,
+    "title": "Longest Substring Without Repeating Characters",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "longest-repeating-character-replacement",
+    "rank": 48,
+    "week": 1,
+    "weekday": 4,
+    "title": "Longest Repeating Character Replacement",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sliding-window-maximum",
+    "rank": 70,
+    "week": 1,
+    "weekday": 4,
+    "title": "Sliding Window Maximum",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "topic": "Sliding Window",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "max-consecutive-ones-iii",
+    "rank": 118,
+    "week": 1,
+    "weekday": 4,
+    "title": "Max Consecutive Ones Iii",
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "permutation-in-string",
+    "rank": 143,
+    "week": 1,
+    "weekday": 4,
+    "title": "Permutation In String",
+    "url": "https://leetcode.com/problems/permutation-in-string/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "fruit-into-baskets",
+    "rank": 197,
+    "week": 1,
+    "weekday": 4,
+    "title": "Fruit Into Baskets",
+    "url": "https://leetcode.com/problems/fruit-into-baskets/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "frequency-of-the-most-frequent-element",
+    "rank": 198,
+    "week": 1,
+    "weekday": 4,
+    "title": "Frequency Of The Most Frequent Element",
+    "url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+    "topic": "Sliding Window",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "median-of-two-sorted-arrays",
+    "rank": 6,
+    "week": 1,
+    "weekday": 5,
+    "title": "Median Of Two Sorted Arrays",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "split-array-largest-sum",
+    "rank": 34,
+    "week": 1,
+    "weekday": 5,
+    "title": "Split Array Largest Sum",
+    "url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "largest-rectangle-in-histogram",
+    "rank": 61,
+    "week": 1,
+    "weekday": 5,
+    "title": "Largest Rectangle In Histogram",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "topic": "Stack",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "decode-string",
+    "rank": 62,
+    "week": 1,
+    "weekday": 5,
+    "title": "Decode String",
+    "url": "https://leetcode.com/problems/decode-string/",
+    "topic": "Stack",
+    "difficulty": ""
+  },
+  {
+    "id": "odd-even-jump",
+    "rank": 77,
+    "week": 1,
+    "weekday": 5,
+    "title": "Odd Even Jump",
+    "url": "https://leetcode.com/problems/odd-even-jump/",
+    "topic": "Stack",
+    "difficulty": ""
+  },
+  {
+    "id": "basic-calculator",
+    "rank": 105,
+    "week": 1,
+    "weekday": 5,
+    "title": "Basic Calculator",
+    "url": "https://leetcode.com/problems/basic-calculator/",
+    "topic": "Stack",
+    "difficulty": ""
+  },
+  {
+    "id": "daily-temperatures",
+    "rank": 132,
+    "week": 1,
+    "weekday": 5,
+    "title": "Daily Temperatures",
+    "url": "https://leetcode.com/problems/daily-temperatures/",
+    "topic": "Stack",
+    "difficulty": ""
+  },
+  {
+    "id": "remove-k-digits",
+    "rank": 141,
+    "week": 1,
+    "weekday": 5,
+    "title": "Remove K Digits",
+    "url": "https://leetcode.com/problems/remove-k-digits/",
+    "topic": "Stack",
+    "difficulty": ""
+  },
+  {
+    "id": "add-two-numbers",
+    "rank": 7,
+    "week": 2,
+    "weekday": 6,
+    "title": "Add Two Numbers",
+    "url": "https://leetcode.com/problems/add-two-numbers/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "search-in-rotated-sorted-array",
+    "rank": 36,
+    "week": 2,
+    "weekday": 6,
+    "title": "Search In Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "koko-eating-bananas",
+    "rank": 45,
+    "week": 2,
+    "weekday": 6,
+    "title": "Koko Eating Bananas",
+    "url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "find-peak-element",
+    "rank": 57,
+    "week": 2,
+    "weekday": 6,
+    "title": "Find Peak Element",
+    "url": "https://leetcode.com/problems/find-peak-element/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "search-insert-position",
+    "rank": 68,
+    "week": 2,
+    "weekday": 6,
+    "title": "Search Insert Position",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "sqrtx",
+    "rank": 86,
+    "week": 2,
+    "weekday": 6,
+    "title": "Sqrtx",
+    "url": "https://leetcode.com/problems/sqrtx/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "find-first-and-last-position-of-element-in-sorted-array",
+    "rank": 103,
+    "week": 2,
+    "weekday": 6,
+    "title": "Find First And Last Position Of Element In Sorted Array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "peak-index-in-a-mountain-array",
+    "rank": 110,
+    "week": 2,
+    "weekday": 6,
+    "title": "Peak Index In A Mountain Array",
+    "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    "topic": "Binary Search",
+    "difficulty": ""
+  },
+  {
+    "id": "delete-nodes-and-return-forest",
+    "rank": 30,
+    "week": 2,
+    "weekday": 7,
+    "title": "Delete Nodes And Return Forest",
+    "url": "https://leetcode.com/problems/delete-nodes-and-return-forest/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "merge-two-sorted-lists",
+    "rank": 40,
+    "week": 2,
+    "weekday": 7,
+    "title": "Merge Two Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "lru-cache",
+    "rank": 41,
+    "week": 2,
+    "weekday": 7,
+    "title": "Lru Cache",
+    "url": "https://leetcode.com/problems/lru-cache/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "reverse-linked-list",
+    "rank": 50,
+    "week": 2,
+    "weekday": 7,
+    "title": "Reverse Linked List",
+    "url": "https://leetcode.com/problems/reverse-linked-list/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "height-of-binary-tree-after-subtree-removal-queries",
+    "rank": 54,
+    "week": 2,
+    "weekday": 7,
+    "title": "Height Of Binary Tree After Subtree Removal Queries",
+    "url": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "merge-k-sorted-lists",
+    "rank": 63,
+    "week": 2,
+    "weekday": 7,
+    "title": "Merge K Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "invert-binary-tree",
+    "rank": 88,
+    "week": 2,
+    "weekday": 7,
+    "title": "Invert Binary Tree",
+    "url": "https://leetcode.com/problems/invert-binary-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "remove-nth-node-from-end-of-list",
+    "rank": 96,
+    "week": 2,
+    "weekday": 7,
+    "title": "Remove Nth Node From End Of List",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "topic": "Linked List",
+    "difficulty": ""
+  },
+  {
+    "id": "binary-tree-maximum-path-sum",
+    "rank": 116,
+    "week": 2,
+    "weekday": 8,
+    "title": "Binary Tree Maximum Path Sum",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "diameter-of-binary-tree",
+    "rank": 131,
+    "week": 2,
+    "weekday": 8,
+    "title": "Diameter Of Binary Tree",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "maximum-depth-of-binary-tree",
+    "rank": 138,
+    "week": 2,
+    "weekday": 8,
+    "title": "Maximum Depth Of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "binary-tree-inorder-traversal",
+    "rank": 171,
+    "week": 2,
+    "weekday": 8,
+    "title": "Binary Tree Inorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "lowest-common-ancestor-of-a-binary-tree",
+    "rank": 175,
+    "week": 2,
+    "weekday": 8,
+    "title": "Lowest Common Ancestor Of A Binary Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "minimum-path-sum",
+    "rank": 184,
+    "week": 2,
+    "weekday": 8,
+    "title": "Minimum Path Sum",
+    "url": "https://leetcode.com/problems/minimum-path-sum/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "same-tree",
+    "rank": 199,
+    "week": 2,
+    "weekday": 8,
+    "title": "Same Tree",
+    "url": "https://leetcode.com/problems/same-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "symmetric-tree",
+    "rank": 209,
+    "week": 2,
+    "weekday": 8,
+    "title": "Symmetric Tree",
+    "url": "https://leetcode.com/problems/symmetric-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "find-median-from-data-stream",
+    "rank": 44,
+    "week": 2,
+    "weekday": 9,
+    "title": "Find Median From Data Stream",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "finding-mk-average",
+    "rank": 59,
+    "week": 2,
+    "weekday": 9,
+    "title": "Finding Mk Average",
+    "url": "https://leetcode.com/problems/finding-mk-average/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "implement-trie-prefix-tree",
+    "rank": 140,
+    "week": 2,
+    "weekday": 9,
+    "title": "Implement Trie Prefix Tree",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "topic": "Tries",
+    "difficulty": ""
+  },
+  {
+    "id": "kth-smallest-element-in-a-bst",
+    "rank": 214,
+    "week": 2,
+    "weekday": 9,
+    "title": "Kth Smallest Element In A Bst",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "sum-of-distances-in-tree",
+    "rank": 248,
+    "week": 2,
+    "weekday": 9,
+    "title": "Sum Of Distances In Tree",
+    "url": "https://leetcode.com/problems/sum-of-distances-in-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "vertical-order-traversal-of-a-binary-tree",
+    "rank": 250,
+    "week": 2,
+    "weekday": 9,
+    "title": "Vertical Order Traversal Of A Binary Tree",
+    "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+    "topic": "Trees",
+    "difficulty": ""
+  },
+  {
+    "id": "word-search-ii",
+    "rank": 315,
+    "week": 2,
+    "weekday": 9,
+    "title": "Word Search Ii",
+    "url": "https://leetcode.com/problems/word-search-ii/",
+    "topic": "Tries",
+    "difficulty": ""
+  },
+  {
+    "id": "design-add-and-search-words-data-structure",
+    "rank": 579,
+    "week": 2,
+    "weekday": 9,
+    "title": "Design Add And Search Words Data Structure",
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "topic": "Tries",
+    "difficulty": ""
+  },
+  {
+    "id": "generate-parentheses",
+    "rank": 31,
+    "week": 2,
+    "weekday": 10,
+    "title": "Generate Parentheses",
+    "url": "https://leetcode.com/problems/generate-parentheses/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "letter-combinations-of-a-phone-number",
+    "rank": 39,
+    "week": 2,
+    "weekday": 10,
+    "title": "Letter Combinations Of A Phone Number",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "kth-largest-element-in-an-array",
+    "rank": 64,
+    "week": 2,
+    "weekday": 10,
+    "title": "Kth Largest Element In An Array",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "top-k-frequent-elements",
+    "rank": 99,
+    "week": 2,
+    "weekday": 10,
+    "title": "Top K Frequent Elements",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "single-threaded-cpu",
+    "rank": 147,
+    "week": 2,
+    "weekday": 10,
+    "title": "Single Threaded Cpu",
+    "url": "https://leetcode.com/problems/single-threaded-cpu/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "reorganize-string",
+    "rank": 196,
+    "week": 2,
+    "weekday": 10,
+    "title": "Reorganize String",
+    "url": "https://leetcode.com/problems/reorganize-string/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "find-k-closest-elements",
+    "rank": 231,
+    "week": 2,
+    "weekday": 10,
+    "title": "Find K Closest Elements",
+    "url": "https://leetcode.com/problems/find-k-closest-elements/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "task-scheduler",
+    "rank": 270,
+    "week": 2,
+    "weekday": 10,
+    "title": "Task Scheduler",
+    "url": "https://leetcode.com/problems/task-scheduler/",
+    "topic": "Heap",
+    "difficulty": ""
+  },
+  {
+    "id": "sudoku-solver",
+    "rank": 93,
+    "week": 3,
+    "weekday": 11,
+    "title": "Sudoku Solver",
+    "url": "https://leetcode.com/problems/sudoku-solver/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "n-queens",
+    "rank": 98,
+    "week": 3,
+    "weekday": 11,
+    "title": "N Queens",
+    "url": "https://leetcode.com/problems/n-queens/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "combination-sum",
+    "rank": 104,
+    "week": 3,
+    "weekday": 11,
+    "title": "Combination Sum",
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "subsets",
+    "rank": 124,
+    "week": 3,
+    "weekday": 11,
+    "title": "Subsets",
+    "url": "https://leetcode.com/problems/subsets/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "permutations",
+    "rank": 136,
+    "week": 3,
+    "weekday": 11,
+    "title": "Permutations",
+    "url": "https://leetcode.com/problems/permutations/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "word-search",
+    "rank": 137,
+    "week": 3,
+    "weekday": 11,
+    "title": "Word Search",
+    "url": "https://leetcode.com/problems/word-search/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "target-sum",
+    "rank": 142,
+    "week": 3,
+    "weekday": 11,
+    "title": "Target Sum",
+    "url": "https://leetcode.com/problems/target-sum/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "palindrome-partitioning",
+    "rank": 161,
+    "week": 3,
+    "weekday": 11,
+    "title": "Palindrome Partitioning",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "topic": "Backtracking",
+    "difficulty": ""
+  },
+  {
+    "id": "number-of-islands",
+    "rank": 11,
+    "week": 3,
+    "weekday": 12,
+    "title": "Number Of Islands",
+    "url": "https://leetcode.com/problems/number-of-islands/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "detonate-the-maximum-bombs",
+    "rank": 52,
+    "week": 3,
+    "weekday": 12,
+    "title": "Detonate The Maximum Bombs",
+    "url": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "course-schedule",
+    "rank": 60,
+    "week": 3,
+    "weekday": 12,
+    "title": "Course Schedule",
+    "url": "https://leetcode.com/problems/course-schedule/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "pacific-atlantic-water-flow",
+    "rank": 89,
+    "week": 3,
+    "weekday": 12,
+    "title": "Pacific Atlantic Water Flow",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "rotting-oranges",
+    "rank": 117,
+    "week": 3,
+    "weekday": 12,
+    "title": "Rotting Oranges",
+    "url": "https://leetcode.com/problems/rotting-oranges/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "01-matrix",
+    "rank": 122,
+    "week": 3,
+    "weekday": 12,
+    "title": "01 Matrix",
+    "url": "https://leetcode.com/problems/01-matrix/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "robot-room-cleaner",
+    "rank": 123,
+    "week": 3,
+    "weekday": 12,
+    "title": "Robot Room Cleaner",
+    "url": "https://leetcode.com/problems/robot-room-cleaner/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "course-schedule-ii",
+    "rank": 133,
+    "week": 3,
+    "weekday": 12,
+    "title": "Course Schedule Ii",
+    "url": "https://leetcode.com/problems/course-schedule-ii/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "number-of-closed-islands",
+    "rank": 145,
+    "week": 3,
+    "weekday": 13,
+    "title": "Number Of Closed Islands",
+    "url": "https://leetcode.com/problems/number-of-closed-islands/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "rank": 146,
+    "week": 3,
+    "weekday": 13,
+    "title": "Shortest Path In A Grid With Obstacles Elimination",
+    "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "longest-increasing-path-in-a-matrix",
+    "rank": 154,
+    "week": 3,
+    "weekday": 13,
+    "title": "Longest Increasing Path In A Matrix",
+    "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "search-a-2d-matrix",
+    "rank": 160,
+    "week": 3,
+    "weekday": 13,
+    "title": "Search A 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "lexicographically-smallest-beautiful-string",
+    "rank": 180,
+    "week": 3,
+    "weekday": 13,
+    "title": "Lexicographically Smallest Beautiful String",
+    "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "evaluate-division",
+    "rank": 194,
+    "week": 3,
+    "weekday": 13,
+    "title": "Evaluate Division",
+    "url": "https://leetcode.com/problems/evaluate-division/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "clone-graph",
+    "rank": 211,
+    "week": 3,
+    "weekday": 13,
+    "title": "Clone Graph",
+    "url": "https://leetcode.com/problems/clone-graph/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "search-a-2d-matrix-ii",
+    "rank": 223,
+    "week": 3,
+    "weekday": 13,
+    "title": "Search A 2D Matrix Ii",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "topic": "Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "climbing-stairs",
+    "rank": 18,
+    "week": 3,
+    "weekday": 14,
+    "title": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "the-earliest-moment-when-everyone-become-friends",
+    "rank": 53,
+    "week": 3,
+    "weekday": 14,
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "url": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "parallel-courses",
+    "rank": 114,
+    "week": 3,
+    "weekday": 14,
+    "title": "Parallel Courses",
+    "url": "https://leetcode.com/problems/parallel-courses/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "reconstruct-itinerary",
+    "rank": 193,
+    "week": 3,
+    "weekday": 14,
+    "title": "Reconstruct Itinerary",
+    "url": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "word-ladder",
+    "rank": 210,
+    "week": 3,
+    "weekday": 14,
+    "title": "Word Ladder",
+    "url": "https://leetcode.com/problems/word-ladder/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "alien-dictionary",
+    "rank": 224,
+    "week": 3,
+    "weekday": 14,
+    "title": "Alien Dictionary",
+    "url": "https://leetcode.com/problems/alien-dictionary/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "path-with-minimum-effort",
+    "rank": 256,
+    "week": 3,
+    "weekday": 14,
+    "title": "Path With Minimum Effort",
+    "url": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "swim-in-rising-water",
+    "rank": 322,
+    "week": 3,
+    "weekday": 14,
+    "title": "Swim In Rising Water",
+    "url": "https://leetcode.com/problems/swim-in-rising-water/",
+    "topic": "Advanced Graphs",
+    "difficulty": ""
+  },
+  {
+    "id": "house-robber",
+    "rank": 69,
+    "week": 3,
+    "weekday": 15,
+    "title": "House Robber",
+    "url": "https://leetcode.com/problems/house-robber/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "longest-increasing-subsequence",
+    "rank": 72,
+    "week": 3,
+    "weekday": 15,
+    "title": "Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "coin-change",
+    "rank": 83,
+    "week": 3,
+    "weekday": 15,
+    "title": "Coin Change",
+    "url": "https://leetcode.com/problems/coin-change/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "word-break",
+    "rank": 112,
+    "week": 3,
+    "weekday": 15,
+    "title": "Word Break",
+    "url": "https://leetcode.com/problems/word-break/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "partition-equal-subset-sum",
+    "rank": 135,
+    "week": 3,
+    "weekday": 15,
+    "title": "Partition Equal Subset Sum",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "maximum-product-subarray",
+    "rank": 151,
+    "week": 3,
+    "weekday": 15,
+    "title": "Maximum Product Subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "perfect-squares",
+    "rank": 226,
+    "week": 3,
+    "weekday": 15,
+    "title": "Perfect Squares",
+    "url": "https://leetcode.com/problems/perfect-squares/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "longest-increasing-subsequence-ii",
+    "rank": 237,
+    "week": 3,
+    "weekday": 15,
+    "title": "Longest Increasing Subsequence Ii",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+    "topic": "1-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock",
+    "rank": 12,
+    "week": 4,
+    "weekday": 16,
+    "title": "Best Time To Buy And Sell Stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "topic": "Greedy",
+    "difficulty": ""
+  },
+  {
+    "id": "longest-palindromic-substring",
+    "rank": 14,
+    "week": 4,
+    "weekday": 16,
+    "title": "Longest Palindromic Substring",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "maximum-subarray",
+    "rank": 25,
+    "week": 4,
+    "weekday": 16,
+    "title": "Maximum Subarray",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "topic": "Greedy",
+    "difficulty": ""
+  },
+  {
+    "id": "maximal-rectangle",
+    "rank": 56,
+    "week": 4,
+    "weekday": 16,
+    "title": "Maximal Rectangle",
+    "url": "https://leetcode.com/problems/maximal-rectangle/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "unique-paths",
+    "rank": 74,
+    "week": 4,
+    "weekday": 16,
+    "title": "Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "regular-expression-matching",
+    "rank": 81,
+    "week": 4,
+    "weekday": 16,
+    "title": "Regular Expression Matching",
+    "url": "https://leetcode.com/problems/regular-expression-matching/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "edit-distance",
+    "rank": 148,
+    "week": 4,
+    "weekday": 16,
+    "title": "Edit Distance",
+    "url": "https://leetcode.com/problems/edit-distance/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "burst-balloons",
+    "rank": 176,
+    "week": 4,
+    "weekday": 16,
+    "title": "Burst Balloons",
+    "url": "https://leetcode.com/problems/burst-balloons/",
+    "topic": "2-D DP",
+    "difficulty": ""
+  },
+  {
+    "id": "merge-intervals",
+    "rank": 20,
+    "week": 4,
+    "weekday": 17,
+    "title": "Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "topic": "Intervals",
+    "difficulty": ""
+  },
+  {
+    "id": "meeting-rooms-iii",
+    "rank": 28,
+    "week": 4,
+    "weekday": 17,
+    "title": "Meeting Rooms Iii",
+    "url": "https://leetcode.com/problems/meeting-rooms-iii/",
+    "topic": "Intervals",
+    "difficulty": ""
+  },
+  {
+    "id": "meeting-rooms-ii",
+    "rank": 32,
+    "week": 4,
+    "weekday": 17,
+    "title": "Meeting Rooms Ii",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "topic": "Intervals",
+    "difficulty": ""
+  },
+  {
+    "id": "jump-game",
+    "rank": 51,
+    "week": 4,
+    "weekday": 17,
+    "title": "Jump Game",
+    "url": "https://leetcode.com/problems/jump-game/",
+    "topic": "Greedy",
+    "difficulty": ""
+  },
+  {
+    "id": "jump-game-ii",
+    "rank": 73,
+    "week": 4,
+    "weekday": 17,
+    "title": "Jump Game Ii",
+    "url": "https://leetcode.com/problems/jump-game-ii/",
+    "topic": "Greedy",
+    "difficulty": ""
+  },
+  {
+    "id": "insert-interval",
+    "rank": 82,
+    "week": 4,
+    "weekday": 17,
+    "title": "Insert Interval",
+    "url": "https://leetcode.com/problems/insert-interval/",
+    "topic": "Intervals",
+    "difficulty": ""
+  },
+  {
+    "id": "gas-station",
+    "rank": 149,
+    "week": 4,
+    "weekday": 17,
+    "title": "Gas Station",
+    "url": "https://leetcode.com/problems/gas-station/",
+    "topic": "Greedy",
+    "difficulty": ""
+  },
+  {
+    "id": "my-calendar-i",
+    "rank": 204,
+    "week": 4,
+    "weekday": 17,
+    "title": "My Calendar I",
+    "url": "https://leetcode.com/problems/my-calendar-i/",
+    "topic": "Intervals",
+    "difficulty": ""
+  },
+  {
+    "id": "roman-to-integer",
+    "rank": 9,
+    "week": 4,
+    "weekday": 18,
+    "title": "Roman To Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "topic": "Math & Geometry",
+    "difficulty": ""
+  },
+  {
+    "id": "palindrome-number",
+    "rank": 10,
+    "week": 4,
+    "weekday": 18,
+    "title": "Palindrome Number",
+    "url": "https://leetcode.com/problems/palindrome-number/",
+    "topic": "Math & Geometry",
+    "difficulty": ""
+  },
+  {
+    "id": "reverse-integer",
+    "rank": 21,
+    "week": 4,
+    "weekday": 18,
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/",
+    "topic": "Math & Geometry",
+    "difficulty": ""
+  },
+  {
+    "id": "add-two-integers",
+    "rank": 33,
+    "week": 4,
+    "weekday": 18,
+    "title": "Add Two Integers",
+    "url": "https://leetcode.com/problems/add-two-integers/",
+    "topic": "Math & Geometry",
+    "difficulty": ""
+  },
+  {
+    "id": "rotate-image",
+    "rank": 43,
+    "week": 4,
+    "weekday": 18,
+    "title": "Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image/",
+    "topic": "Math & Geometry",
+    "difficulty": ""
+  },
+  {
+    "id": "single-number",
+    "rank": 75,
+    "week": 4,
+    "weekday": 18,
+    "title": "Single Number",
+    "url": "https://leetcode.com/problems/single-number/",
+    "topic": "Bit Manipulation",
+    "difficulty": ""
+  },
+  {
+    "id": "power-of-two",
+    "rank": 97,
+    "week": 4,
+    "weekday": 18,
+    "title": "Power Of Two",
+    "url": "https://leetcode.com/problems/power-of-two/",
+    "topic": "Bit Manipulation",
+    "difficulty": ""
+  },
+  {
+    "id": "add-binary",
+    "rank": 111,
+    "week": 4,
+    "weekday": 18,
+    "title": "Add Binary",
+    "url": "https://leetcode.com/problems/add-binary/",
+    "topic": "Bit Manipulation",
+    "difficulty": ""
+  },
+  {
+    "id": "logger-rate-limiter",
+    "rank": 13,
+    "week": 4,
+    "weekday": 19,
+    "title": "Logger Rate Limiter",
+    "url": "https://leetcode.com/problems/logger-rate-limiter/",
+    "topic": "Design",
+    "difficulty": ""
+  },
+  {
+    "id": "range-module",
+    "rank": 49,
+    "week": 4,
+    "weekday": 19,
+    "title": "Range Module",
+    "url": "https://leetcode.com/problems/range-module/",
+    "topic": "Design",
+    "difficulty": ""
+  },
+  {
+    "id": "random-pick-with-weight",
+    "rank": 80,
+    "week": 4,
+    "weekday": 19,
+    "title": "Random Pick With Weight",
+    "url": "https://leetcode.com/problems/random-pick-with-weight/",
+    "topic": "Design",
+    "difficulty": ""
+  },
+  {
+    "id": "detect-squares",
+    "rank": 90,
+    "week": 4,
+    "weekday": 19,
+    "title": "Detect Squares",
+    "url": "https://leetcode.com/problems/detect-squares/",
+    "topic": "Design",
+    "difficulty": ""
+  },
+  {
+    "id": "insert-delete-getrandom-o1",
+    "rank": 94,
+    "week": 4,
+    "weekday": 19,
+    "title": "Insert Delete Getrandom O1",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+    "topic": "Design",
+    "difficulty": ""
+  },
+  {
+    "id": "missing-number",
+    "rank": 293,
+    "week": 4,
+    "weekday": 19,
+    "title": "Missing Number",
+    "url": "https://leetcode.com/problems/missing-number/",
+    "topic": "Bit Manipulation",
+    "difficulty": ""
+  }
+]
