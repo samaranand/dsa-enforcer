@@ -304,16 +304,16 @@ function renderRow(p: Problem, entry: ProgressEntry): string {
     .join("");
 
   return `<div class="row">
-    <div class="row-main">
+    <div class="row-main" data-action="toggle-details" data-id="${attr(p.id)}">
       <span class="row-rank">#${p.rank || "—"}</span>
-      <a class="row-title" href="${attr(p.url)}" target="_blank" rel="noopener">${escapeHtml(p.title)}</a>
+      <a class="row-title" href="${attr(p.url)}" target="_blank" rel="noopener" data-action="open-link">${escapeHtml(p.title)}</a>
       ${difficultyBadge}
       <span class="badge topic">${escapeHtml(p.topic)}</span>
       ${tagChips}
       <span class="row-spacer"></span>
       ${statusHtml}
       ${actionHtml}
-      <button class="btn small" data-action="toggle-details" data-id="${attr(p.id)}">${isOpen ? "Hide" : "Details"}</button>
+      <span class="row-caret" title="${isOpen ? "Hide" : "Details"}">${isOpen ? "▾" : "▸"}</span>
     </div>
     ${isOpen ? renderDetails(p, entry, isTagInputOpen) : ""}
   </div>`;
