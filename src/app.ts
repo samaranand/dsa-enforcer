@@ -4,6 +4,7 @@ import { getAllProgress, getEntry, onProgressChange, resetAllProgress, updateEnt
 import { elapsedSec, formatClock, formatDuration, isExpired, remainingSec } from "./timer";
 import { exportCsv, exportJson, importJsonFile } from "./export";
 import { solutions } from "./data/solutions";
+import { applyThemePref, getThemePref, setThemePref, type ThemePref } from "./theme";
 import {
   addCustomSet,
   downloadSampleCsv,
@@ -31,7 +32,7 @@ let filters: Filters = { search: "", week: "all", topic: "all", difficulty: "all
 const collapsedGroups = new Set<string>();
 const confirmingDone = new Set<string>();
 const tagInputOpen = new Set<string>();
-const expandedRows = new Set<string>();
+let expandedRowId: string | null = null; // only one row's Details panel open at a time
 const tagDraft: Record<string, string> = {};
 const notesDraft: Record<string, string> = {};
 
@@ -63,7 +64,7 @@ function resetEphemeralUiState() {
   collapsedGroups.clear();
   confirmingDone.clear();
   tagInputOpen.clear();
-  expandedRows.clear();
+  expandedRowId = null;
 }
 
 function collectAllTags(problems: Problem[], progress: ProgressMap): string[] {
@@ -152,6 +153,7 @@ function renderHeader(): string {
   return `<div class="app-header">
     <div class="app-title"><h1>dsa-enforcer</h1><span class="tag">timed C++ practice tracker</span></div>
     <div class="header-actions">
+      ${renderThemeToggle()}
       <button class="btn" data-action="export-json">Export JSON</button>
       <button class="btn" data-action="export-csv">Export CSV</button>
       <button class="btn" data-action="open-progress-import">Import progress</button>
@@ -159,6 +161,21 @@ function renderHeader(): string {
       <button class="btn danger" data-action="open-reset-modal">Reset progress</button>
     </div>
   </div>`;
+}
+
+const THEME_OPTIONS: { pref: ThemePref; icon: string; label: string }[] = [
+  { pref: "system", icon: "🖥", label: "Match system theme" },
+  { pref: "light", icon: "☀", label: "Light theme" },
+  { pref: "dark", icon: "🌙", label: "Dark theme" },
+];
+
+function renderThemeToggle(): string {
+  const current = getThemePref();
+  const buttons = THEME_OPTIONS.map(
+    ({ pref, icon, label }) =>
+      `<button class="theme-option ${pref === current ? "active" : ""}" data-action="set-theme" data-theme-pref="${pref}" title="${attr(label)}" aria-label="${attr(label)}">${icon}</button>`,
+  ).join("");
+  return `<div class="theme-toggle">${buttons}</div>`;
 }
 
 function renderSetsBar(activeId: string): string {
@@ -263,7 +280,7 @@ function renderList(problems: Problem[], progress: ProgressMap): string {
 }
 
 function renderRow(p: Problem, entry: ProgressEntry): string {
-  const isOpen = expandedRows.has(p.id);
+  const isOpen = expandedRowId === p.id;
   const isConfirming = confirmingDone.has(p.id);
   const isTagInputOpen = tagInputOpen.has(p.id);
 
@@ -534,7 +551,8 @@ function attachEvents() {
         finalizeDone(id!, el.dataset.level as Confidence);
         break;
       case "toggle-details":
-        expandedRows.has(id!) ? expandedRows.delete(id!) : expandedRows.add(id!);
+        expandedRowId = expandedRowId === id ? null : (id ?? null);
+        tagInputOpen.clear();
         render();
         break;
       case "toggle-tag-input":
@@ -598,6 +616,10 @@ function attachEvents() {
         break;
       case "delete-set":
         doDeleteSet(el.dataset.setId!);
+        break;
+      case "set-theme":
+        setThemePref(el.dataset.themePref as ThemePref);
+        render();
         break;
     }
   });
@@ -682,6 +704,7 @@ function tick() {
 }
 
 export function initApp() {
+  applyThemePref();
   attachEvents();
   onProgressChange(render);
   render();

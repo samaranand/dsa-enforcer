@@ -9,6 +9,14 @@
       content="dsa-enforcer: a timed C++ DSA practice tracker. 1-hour timer per problem, confidence ratings, tags, reference solutions, and local-only progress."
     />
     <title>dsa-enforcer — timed C++ DSA practice tracker</title>
+    <script>
+      (function () {
+        try {
+          var v = localStorage.getItem("dsa-enforcer:theme:v1");
+          if (v === "light" || v === "dark") document.documentElement.setAttribute("data-theme", v);
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="app"></div>

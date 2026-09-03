@@ -8,7 +8,7 @@ const ACTIVE_SET_KEY = "dsa-enforcer:active-set:v1";
 
 const defaultSet: ProblemSet = {
   id: DEFAULT_SET_ID,
-  name: "Google Prep 2K26",
+  name: "DSA Prep 2K26",
   builtIn: true,
   createdAt: 0,
   problems: problemsData as Problem[],

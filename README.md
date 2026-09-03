@@ -50,7 +50,7 @@ Pages → Source: GitHub Actions**.
 
 ## Adding more problems to the built-in set
 
-The default "Google Prep 2K26" catalog is generated from
+The default "DSA Prep 2K26" catalog is generated from
 `scripts/source-data/problems.csv`. To extend it:
 
 1. Edit or replace that CSV (columns: `Week`, `Weekday #`, `Rank`, `Problem`,
