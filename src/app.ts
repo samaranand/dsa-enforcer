@@ -286,10 +286,10 @@ function renderRow(p: Problem, entry: ProgressEntry): string {
     statusHtml = `<span class="badge status-done">Done</span>${
       entry.confidence ? `<span class="badge confidence-${entry.confidence}">${capitalize(entry.confidence)}</span>` : ""
     }<span class="timer-badge" style="background:none;color:var(--text-faint)">${formatDuration(entry.timeSpentSec)}</span>`;
-    actionHtml = `<button class="btn small" data-action="retry" data-id="${attr(p.id)}">Retry</button>`;
+    actionHtml = `<button class="btn small icon" data-action="retry" data-id="${attr(p.id)}" title="Retry — restart the 60-minute timer" aria-label="Retry">↺</button>`;
   } else if (entry.status === "failed") {
     statusHtml = `<span class="badge status-failed">Failed — time's up</span>`;
-    actionHtml = `<button class="btn small" data-action="retry" data-id="${attr(p.id)}">Retry</button>`;
+    actionHtml = `<button class="btn small icon" data-action="retry" data-id="${attr(p.id)}" title="Retry — restart the 60-minute timer" aria-label="Retry">↺</button>`;
   }
 
   const difficultyBadge = p.difficulty
@@ -348,7 +348,10 @@ function renderDetails(p: Problem, entry: ProgressEntry, isTagInputOpen: boolean
 }
 
 function renderFooter(): string {
-  return `<footer class="app-footer">Progress lives only in this browser's local storage — nothing is sent to any server. <a href="https://github.com/samaranand/dsa-enforcer" target="_blank" rel="noopener">Source on GitHub</a></footer>`;
+  return `<footer class="app-footer">
+    <div>Progress lives only in this browser's local storage — nothing is sent to any server. <a href="https://github.com/samaranand/dsa-enforcer" target="_blank" rel="noopener">Source on GitHub</a></div>
+    <div class="credit">Created by Samar Anand · © 2026</div>
+  </footer>`;
 }
 
 function renderResetModal(): string {
